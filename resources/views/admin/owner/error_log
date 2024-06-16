@@ -1,0 +1,3 @@
+[19-May-2021 08:55:02 America/New_York] PHP Notice:  Undefined variable: owner in /home/sohokkmz/bluedreambagharparajashore.com/resources/views/admin/owner/list.blade.php on line 49
+[19-May-2021 08:55:02 America/New_York] PHP Notice:  Trying to get property 'amount' of non-object in /home/sohokkmz/bluedreambagharparajashore.com/resources/views/admin/owner/list.blade.php on line 49
+[19-May-2021 08:55:02 America/New_York] PHP Notice:  Undefined variable: net_total in /home/sohokkmz/bluedreambagharparajashore.com/resources/views/admin/owner/list.blade.php on line 49
